@@ -8,5 +8,4 @@ import org.apache.ibatis.annotations.Mapper;
 public interface FileMapper extends BaseMapper<Oss> {
 
 
-ssss
 }
