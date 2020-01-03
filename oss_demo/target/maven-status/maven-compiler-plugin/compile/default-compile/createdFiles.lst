@@ -1,0 +1,4 @@
+com\fh\service\FileUploadService.class
+com\fh\OssDemoApplication.class
+com\fh\config\AliyunConfig.class
+com\fh\model\FileUploadResult.class
